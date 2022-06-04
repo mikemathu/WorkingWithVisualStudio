@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Pk6yf6O+lUZa3v88vYQC1gztAoeKP14/H18J9dl8VKg=",
+  "Hash": "PXoqC963Jst8P/rjvQscoafq9bphjH6FJThF/VLBY9o=",
   "Source": "WorkingWithVisualStudio",
   "BasePath": "_content/WorkingWithVisualStudio",
   "Mode": "Default",
@@ -51,6 +51,40 @@
       "OriginalItemSpec": "C:\\C#\\repos\\MVC\\WorkingWithVisualStudio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WorkingWithVisualStudio.bundle.scp.css"
     },
     {
+      "Identity": "C:\\C#\\repos\\MVC\\WorkingWithVisualStudio\\wwwroot\\css\\first.css",
+      "SourceId": "WorkingWithVisualStudio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\C#\\repos\\MVC\\WorkingWithVisualStudio\\wwwroot\\",
+      "BasePath": "_content/WorkingWithVisualStudio",
+      "RelativePath": "css/first.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\first.css"
+    },
+    {
+      "Identity": "C:\\C#\\repos\\MVC\\WorkingWithVisualStudio\\wwwroot\\css\\second.css",
+      "SourceId": "WorkingWithVisualStudio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\C#\\repos\\MVC\\WorkingWithVisualStudio\\wwwroot\\",
+      "BasePath": "_content/WorkingWithVisualStudio",
+      "RelativePath": "css/second.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\second.css"
+    },
+    {
       "Identity": "C:\\C#\\repos\\MVC\\WorkingWithVisualStudio\\wwwroot\\css\\site.css",
       "SourceId": "WorkingWithVisualStudio",
       "SourceType": "Discovered",
@@ -85,6 +119,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\C#\\repos\\MVC\\WorkingWithVisualStudio\\wwwroot\\js\\fourth.js",
+      "SourceId": "WorkingWithVisualStudio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\C#\\repos\\MVC\\WorkingWithVisualStudio\\wwwroot\\",
+      "BasePath": "_content/WorkingWithVisualStudio",
+      "RelativePath": "js/fourth.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\fourth.js"
+    },
+    {
       "Identity": "C:\\C#\\repos\\MVC\\WorkingWithVisualStudio\\wwwroot\\js\\site.js",
       "SourceId": "WorkingWithVisualStudio",
       "SourceType": "Discovered",
@@ -100,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\C#\\repos\\MVC\\WorkingWithVisualStudio\\wwwroot\\js\\third.js",
+      "SourceId": "WorkingWithVisualStudio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\C#\\repos\\MVC\\WorkingWithVisualStudio\\wwwroot\\",
+      "BasePath": "_content/WorkingWithVisualStudio",
+      "RelativePath": "js/third.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\third.js"
     },
     {
       "Identity": "C:\\C#\\repos\\MVC\\WorkingWithVisualStudio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
