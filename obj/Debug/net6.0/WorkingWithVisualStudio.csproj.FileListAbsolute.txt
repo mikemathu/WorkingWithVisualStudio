@@ -25,3 +25,7 @@ C:\C#\repos\MVC\WorkingWithVisualStudio\obj\Debug\net6.0\WorkingWithVisualStudio
 C:\C#\repos\MVC\WorkingWithVisualStudio\obj\Debug\net6.0\WorkingWithVisualStudio.genruntimeconfig.cache
 C:\C#\repos\MVC\WorkingWithVisualStudio\obj\Debug\net6.0\ref\WorkingWithVisualStudio.dll
 C:\C#\repos\MVC\WorkingWithVisualStudio\bin\Debug\net6.0\bower.json
+C:\C#\repos\MVC\WorkingWithVisualStudio\bin\Debug\net6.0\xunit.abstractions.dll
+C:\C#\repos\MVC\WorkingWithVisualStudio\bin\Debug\net6.0\xunit.core.dll
+C:\C#\repos\MVC\WorkingWithVisualStudio\bin\Debug\net6.0\xunit.execution.dotnet.dll
+C:\C#\repos\MVC\WorkingWithVisualStudio\obj\Debug\net6.0\WorkingWithVisualStudio.csproj.CopyComplete
